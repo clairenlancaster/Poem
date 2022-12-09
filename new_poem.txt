@@ -1,6 +1,7 @@
 Red
 Orange
 Yellow
+Green
 Blue
 Purple
 These are the colours of the rainbow
